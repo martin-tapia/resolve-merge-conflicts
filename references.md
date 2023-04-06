@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+# Estás en el archivo references.md
